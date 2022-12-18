@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../goit-markup-hw-02"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true
+  }
+}
